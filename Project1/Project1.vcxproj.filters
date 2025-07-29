@@ -21,6 +21,9 @@
     <ClCompile Include="prtintf関数.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="演算子の基本.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
