@@ -30,7 +30,7 @@
     <ClCompile Include="lec11.データ型とキャスト.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="lec12代入演算子.c">
+    <ClCompile Include="lec13代入演算子.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
