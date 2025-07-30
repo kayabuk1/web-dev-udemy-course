@@ -142,6 +142,7 @@
     <ClCompile Include="lec13代入演算子.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="lec14if文.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
