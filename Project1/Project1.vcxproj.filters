@@ -45,6 +45,9 @@
     <ClCompile Include="lec17.複雑な条件分岐（if入れ子）.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="lec18.switch文.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
