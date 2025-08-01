@@ -54,6 +54,12 @@
     <ClCompile Include="lec20.forの二重ループ.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="lec22.whileループ.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lec23.do-while文.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
