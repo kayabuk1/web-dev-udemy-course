@@ -166,7 +166,10 @@
     <ClCompile Include="lec22.whileループ.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="lec23.do-while文.c" />
+    <ClCompile Include="lec23.do-while文.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="lec24.for~whileとdo~whileの違い.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
