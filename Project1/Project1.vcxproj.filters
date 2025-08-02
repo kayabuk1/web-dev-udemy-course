@@ -63,6 +63,9 @@
     <ClCompile Include="lec24.for~whileとdo~whileの違い.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="lec24-2.for~while復習模写.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
