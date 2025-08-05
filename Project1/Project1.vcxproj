@@ -169,7 +169,10 @@
     <ClCompile Include="lec23.do-while文.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="lec24-2.for~while復習模写.c" />
+    <ClCompile Include="lec24-2.for~while復習模写.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="lec24-3.復習模写2回目.c" />
     <ClCompile Include="lec24.for~whileとdo~whileの違い.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
