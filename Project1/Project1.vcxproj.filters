@@ -72,6 +72,9 @@
     <ClCompile Include="lec25.無限ループ.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="lec27.配列の基本.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">

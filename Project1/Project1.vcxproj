@@ -178,7 +178,10 @@
     <ClCompile Include="lec24.for~whileとdo~whileの違い.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="lec25.無限ループ.c" />
+    <ClCompile Include="lec25.無限ループ.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="lec27.配列の基本.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
