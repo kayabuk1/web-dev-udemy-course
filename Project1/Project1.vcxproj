@@ -181,10 +181,13 @@
     <ClCompile Include="lec25.無限ループ.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="lec27-2.配列復習模写.c" />
+    <ClCompile Include="lec27-2.配列復習模写.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="lec27.配列の基本.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="lec28.配列の初期化.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
