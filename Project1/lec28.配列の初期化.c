@@ -20,7 +20,9 @@ int main(void) {
 								コンパイル前に別の文字列（数値でもOK）に置き換える機能を持つ。
 		int main(void){
 			int n[array_size] = { 5,4,3,2,1,0 };
-			size_t i; size_tは符号無し整数型と言い、
+			size_t i; 
+			
+			size_tは符号無し整数型と言い、
 			配列の要素数を管理するのに適している。
 			z: size_t型を表す。（sやtはすでに他の書式指定子で使われているのでzとのこと。）
 			u: unsigned int（符号なし整数）を表す。
