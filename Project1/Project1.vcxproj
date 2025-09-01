@@ -190,7 +190,10 @@
     <ClCompile Include="lec28-3.配列の基礎復習.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="lec28-4配列の初期化.間空いたので模写もう1回.c" />
+    <ClCompile Include="lec28-4配列の初期化.間空いたので模写もう1回.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="lec28-5.配列の初期化復習.c" />
     <ClCompile Include="lec28.配列の初期化.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

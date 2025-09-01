@@ -87,6 +87,9 @@
     <ClCompile Include="lec28-4配列の初期化.間空いたので模写もう1回.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="lec28-5.配列の初期化復習.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
