@@ -199,7 +199,10 @@
     <ClCompile Include="lec28.配列の初期化.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="lec29.文字列と配列.c" />
+    <ClCompile Include="lec29.文字列と配列.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="lec30.多重配列.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
